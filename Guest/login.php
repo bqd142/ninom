@@ -57,7 +57,7 @@
           <label for="txtname" >UserName</label>
         </div>
         <div  class="mt-3 mb-3 form-floating">      
-          <input type="text" class="form-control" name="txtpass" placeholder="Password"  id="txtpass">
+          <input type="password" class="form-control" name="txtpass" placeholder="Password"  id="txtpass">
           <label for="txtpass" >Password</label>
         </div>
         <a href="#" class="d-flex justify-content-center text-decoration-none small"> forgot password?</a>

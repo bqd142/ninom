@@ -61,11 +61,11 @@
           <label for="txtmail" >Email</label>
         </div>
         <div  class="mt-3 mb-3 form-floating">      
-          <input type="text" class="form-control" name="txtpass" placeholder="Password"  id="txtpass">
+          <input type="password" class="form-control" name="txtpass" placeholder="Password"  id="txtpass">
           <label for="txtpass" >Password</label>
         </div>
         <div  class="mt-3 mb-3 form-floating">      
-          <input type="text" class="form-control" name="txtconfirm" placeholder="Confirm Password"  id="txtconfirm">
+          <input type="password" class="form-control" name="txtconfirm" placeholder="Confirm Password"  id="txtconfirm">
           <label for="txtpass" >Confirm Password</label>
         </div>
         <div class="text-center mt-3">
